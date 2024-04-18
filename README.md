@@ -1,4 +1,4 @@
-# Loney-Tunes
+# Looney-Tunes
 Pitch Detection Final Project
 
 
